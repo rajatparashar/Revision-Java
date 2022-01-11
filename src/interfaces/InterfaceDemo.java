@@ -9,7 +9,7 @@ package interfaces;
 // Implements is used for class-class, interface-interface relationships
 // Extends is used for Class-interface relationships
 // We cannot create object of Interface but we can create reference of Interface
-// Given a choice, always prefer to use Interfaces, as it provides flexibility to extend a class in future(in case if comebody want to do so)
+// Given a choice, always prefer to use Interfaces, as it provides flexibility to extend a class in future(in case if somebody want to do so)
 
 interface Writer {
 	abstract void write();

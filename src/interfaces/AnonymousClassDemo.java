@@ -37,7 +37,7 @@ public class AnonymousClassDemo {
 		obj1.show(); // I'm the best
 
 		/*
-		 * Here the below in lass anonymous class
+		 * Here the below is anonymous class
 		 
 		 new A() {
 		 	public void show() {
